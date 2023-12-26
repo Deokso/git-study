@@ -1,6 +1,7 @@
-category: python
+category: css
 lectures: lee
 related:
+- Polymorphism
 - AI
 - Django
 - pycharm
