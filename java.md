@@ -5,4 +5,3 @@ related:
 - xcss
 - css
 - springboot
-- elipse
