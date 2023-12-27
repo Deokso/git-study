@@ -1,5 +1,5 @@
 category: java
-lectures: Jin
+lectures: kim
 title: java advanced
 related:
 - xcss
